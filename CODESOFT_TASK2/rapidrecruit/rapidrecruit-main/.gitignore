@@ -1,0 +1,4 @@
+job-portal/node_modules/
+job-portal-server/node_modules/
+job-portal-server/.env
+job-portal/.env
